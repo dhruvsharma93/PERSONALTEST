@@ -1,9 +1,7 @@
 package com.hw.accountbasics;
 
-import java.awt.List;
 import java.util.ArrayList;
 import java.util.Scanner;
-import com.hw.accountbasics.*;
 
 public class Banks {
 	public static int peepal = 0;
